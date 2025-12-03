@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白日のもと",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-03T15:43:58.447479Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白日のもと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_白日のもと_椎名_林檎.txt"
+    }
+  ]
+}
